@@ -1,0 +1,93 @@
+{
+  "name": "npm-gen-babel-preset-react",
+  "version": "6.24.1",
+  "dependencies": {
+    "babel-preset-react": {
+      "version": "6.24.1",
+      "from": "babel-preset-react@6.24.1",
+      "resolved": "https://registry.npmjs.org/babel-preset-react/-/babel-preset-react-6.24.1.tgz",
+      "dependencies": {
+        "babel-helper-builder-react-jsx": {
+          "version": "6.26.0",
+          "from": "babel-helper-builder-react-jsx@>=6.24.1 <7.0.0",
+          "resolved": "https://registry.npmjs.org/babel-helper-builder-react-jsx/-/babel-helper-builder-react-jsx-6.26.0.tgz"
+        },
+        "babel-plugin-syntax-flow": {
+          "version": "6.18.0",
+          "from": "babel-plugin-syntax-flow@>=6.18.0 <7.0.0",
+          "resolved": "https://registry.npmjs.org/babel-plugin-syntax-flow/-/babel-plugin-syntax-flow-6.18.0.tgz"
+        },
+        "babel-plugin-syntax-jsx": {
+          "version": "6.18.0",
+          "from": "babel-plugin-syntax-jsx@>=6.3.13 <7.0.0",
+          "resolved": "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.18.0.tgz"
+        },
+        "babel-plugin-transform-flow-strip-types": {
+          "version": "6.22.0",
+          "from": "babel-plugin-transform-flow-strip-types@>=6.22.0 <7.0.0",
+          "resolved": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.22.0.tgz"
+        },
+        "babel-plugin-transform-react-display-name": {
+          "version": "6.25.0",
+          "from": "babel-plugin-transform-react-display-name@>=6.23.0 <7.0.0",
+          "resolved": "https://registry.npmjs.org/babel-plugin-transform-react-display-name/-/babel-plugin-transform-react-display-name-6.25.0.tgz"
+        },
+        "babel-plugin-transform-react-jsx": {
+          "version": "6.24.1",
+          "from": "babel-plugin-transform-react-jsx@>=6.24.1 <7.0.0",
+          "resolved": "https://registry.npmjs.org/babel-plugin-transform-react-jsx/-/babel-plugin-transform-react-jsx-6.24.1.tgz"
+        },
+        "babel-plugin-transform-react-jsx-self": {
+          "version": "6.22.0",
+          "from": "babel-plugin-transform-react-jsx-self@>=6.22.0 <7.0.0",
+          "resolved": "https://registry.npmjs.org/babel-plugin-transform-react-jsx-self/-/babel-plugin-transform-react-jsx-self-6.22.0.tgz"
+        },
+        "babel-plugin-transform-react-jsx-source": {
+          "version": "6.22.0",
+          "from": "babel-plugin-transform-react-jsx-source@>=6.22.0 <7.0.0",
+          "resolved": "https://registry.npmjs.org/babel-plugin-transform-react-jsx-source/-/babel-plugin-transform-react-jsx-source-6.22.0.tgz"
+        },
+        "babel-preset-flow": {
+          "version": "6.23.0",
+          "from": "babel-preset-flow@>=6.23.0 <7.0.0",
+          "resolved": "https://registry.npmjs.org/babel-preset-flow/-/babel-preset-flow-6.23.0.tgz"
+        },
+        "babel-runtime": {
+          "version": "6.26.0",
+          "from": "babel-runtime@>=6.22.0 <7.0.0",
+          "resolved": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.26.0.tgz"
+        },
+        "babel-types": {
+          "version": "6.26.0",
+          "from": "babel-types@>=6.26.0 <7.0.0",
+          "resolved": "https://registry.npmjs.org/babel-types/-/babel-types-6.26.0.tgz"
+        },
+        "core-js": {
+          "version": "2.5.3",
+          "from": "core-js@>=2.4.0 <3.0.0",
+          "resolved": "https://registry.npmjs.org/core-js/-/core-js-2.5.3.tgz"
+        },
+        "esutils": {
+          "version": "2.0.2",
+          "from": "esutils@>=2.0.2 <3.0.0",
+          "resolved": "https://registry.npmjs.org/esutils/-/esutils-2.0.2.tgz"
+        },
+        "lodash": {
+          "version": "4.17.4",
+          "from": "lodash@>=4.17.4 <5.0.0",
+          "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.4.tgz"
+        },
+        "regenerator-runtime": {
+          "version": "0.11.1",
+          "from": "regenerator-runtime@>=0.11.0 <0.12.0",
+          "resolved": "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.11.1.tgz"
+        },
+        "to-fast-properties": {
+          "version": "1.0.3",
+          "from": "to-fast-properties@>=1.0.3 <2.0.0",
+          "resolved": "https://registry.npmjs.org/to-fast-properties/-/to-fast-properties-1.0.3.tgz"
+        }
+      }
+    }
+  }
+}

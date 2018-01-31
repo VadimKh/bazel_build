@@ -1,0 +1,11 @@
+{
+  "name": "npm-gen-is-number",
+  "version": "5.0.0",
+  "dependencies": {
+    "is-number": {
+      "version": "5.0.0",
+      "from": "is-number@5.0.0",
+      "resolved": "https://registry.npmjs.org/is-number/-/is-number-5.0.0.tgz"
+    }
+  }
+}
