@@ -1,0 +1,5 @@
+workspace_type: java
+directories:
+  .
+targets:
+  //...:all

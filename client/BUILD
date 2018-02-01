@@ -1,6 +1,6 @@
 package(default_visibility = ['//visibility:public'])
 
-load('@org_dropbox_rules_node//node:defs.bzl', 'webpack_build')
+load('@org_dropbox_rules_node//node:defs.bzl', 'webpack_build', 'node_library')
 
 webpack_build(
     name = 'webpack_build',
@@ -23,4 +23,12 @@ webpack_build(
         '//client/npm/prop-types',
         '//client/npm/object-assign',
     ],
+)
+
+node_library(
+    name = "main",
+    deps = [
+        ":webpack_build",
+    ],
+    visibility = ["//visibility:public"],
 )
